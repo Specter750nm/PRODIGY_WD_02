@@ -1,1 +1,11 @@
-# PRODIGY_WD_02
+TASK : 2
+
+TOPIC : STOPWATCH WEB APPLICATION
+
+DESCRIPTION : To build a stopwatch web application, you can use HTML, CSS, and JavaScript. HTML is used to structure the elements of the application. By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals. With these technologies and functionalities, you can create an interactive and user-friendly stopwatch web application
+
+PROGRAMMING LANGUAGES USED : HTML,CSS,JAVASCRIPT
+
+SCREENSHOT:
+
+![Sw](https://github.com/Specter750nm/PRODIGY_WD_02/assets/171424479/14becb2d-f766-4659-8ce0-49e4354f0f11)
